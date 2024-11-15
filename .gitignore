@@ -1,0 +1,25 @@
+.env
+.gitk*
+.idea/*
+.DS_Store
+*.backup
+*.exe
+*.pdb
+*.bak
+*.esproj
+*.sln
+.vs*
+.eslintcache
+node_modules/*
+src/models/*.js
+src/plugins/*.js
+src/controls/*.js
+src/models/*.js
+src/*.js
+dist/browser/models/*
+
+# IDE - VSCode
+.vscode/*
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
